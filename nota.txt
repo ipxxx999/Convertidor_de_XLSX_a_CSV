@@ -1,4 +1,0 @@
-https://github.com/shuchkin/simplexlsx/
-
-https://github.com/ipxxx999/Convertidor_de_XLSX_a_CSV.git
-Convertidor_de_XLSX_a_CSV
